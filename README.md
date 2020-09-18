@@ -6,7 +6,7 @@ Pixel values are taken in a numpy array.
 The perceptron has 3 layers, one input layer, one hidden layer, one output layer
 keras library is being used for building the perceptron.
 Input data has 5 dimensions.
-Hidden layer has 128 nodes, activation function used is relu
-Output layer has 12 nodes for 12 classes, activation function used is softmax
-categorical crossentropy function is used as loss function
-optimizer used is adam
+Hidden layer has 128 nodes, activation function used is relu.
+Output layer has 12 nodes for 12 classes, activation function used is softmax.
+Categorical crossentropy function is used as loss function.
+Optimizer used is adam.
